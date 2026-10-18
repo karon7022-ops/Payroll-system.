@@ -1,3 +1,6 @@
+/*NAME: Aron kipkoech langat
+ REG No: CT101/G/26629/25
+ GROUP B; BSC computer science */
 #include <iostream>
 using namespace std;
 
